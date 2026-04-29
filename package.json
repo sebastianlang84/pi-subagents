@@ -12,7 +12,7 @@
   "type": "module",
   "pi": {
     "extensions": [
-      "./extensions"
+      "./src/index.ts"
     ]
   },
   "peerDependencies": {
