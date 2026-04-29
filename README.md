@@ -13,13 +13,13 @@ This package exposes a `subagent` tool that can run agents in three modes:
 From GitHub:
 
 ```bash
-pi install git:github.com/sebastianlang84/pi-subagents
+pi install git:github.com/sebastianlang84/pi-ext-subagents
 ```
 
 For local development:
 
 ```bash
-pi -e ~/dev/pi-extensions/pi-subagents
+pi -e ~/dev/pi-extensions/pi-ext-subagents
 ```
 
 ## Agent files
